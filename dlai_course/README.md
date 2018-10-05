@@ -1,1 +1,1 @@
-This folder contains files related to exercises in the deep learning specialization form deeplearning.ai
+This folder contains exercises for the deep learning specialization course at deeplearning.ai
